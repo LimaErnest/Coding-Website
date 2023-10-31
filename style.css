@@ -67,11 +67,24 @@ body{
     outline: none;
     cursor: pointer;
 }
+
+.nav-button .cta a{
+    text-decoration: none;
+    color: #fff;
+    }
+.nav-button .cta-1 a{
+text-decoration: none;
+color: #3496a0;
+}
+.nav-button .cta-1 a:hover{
+    text-decoration: none;
+    color: #fff;
+    }
 .nav-button .cta-1{
     color: #3496a0;
     background-color: transparent;
     padding: 10px 30px;
-    border: 5px solid color(#3496a0);
+    border: 2px solid #3496a0;
     outline: none;
     cursor: pointer;
     margin: 10px;
