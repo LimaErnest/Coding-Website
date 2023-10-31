@@ -1,4 +1,5 @@
 
+
   @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,900&display=swap');
 *
 {
@@ -15,7 +16,7 @@ body{
     display: flex;
     justify-content: space-between;
     text-align: center;
-    padding: 20px;
+    padding: 15px;
    top: 0;
     position: sticky;
     background-color: #f8f7f3;
@@ -203,6 +204,8 @@ body{
 .categories .box:hover{
     background-color: #3496a0;
     color: #fff;
+    border: 1px solid #fff;
+    color: #fff;
 }
 /*---courses section ends here */
 #course{
@@ -223,24 +226,23 @@ body{
     align-items: center;
     margin-left: 35px;
     margin-right: 45px;
-    padding: 30px;
 }
 .card-container .card{
     width: 400px;
     height: 600px;
+    margin: 5px;
     padding: 12px 30px;
     border: none;
     background-color: #fff;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
-    padding-bottom: 55px;
-    padding-top: 50px;
+    padding-top: 25px;
 }
 .card h1{
     text-align: left;
     font-size: 25px;
     color: black;
     padding-bottom: 10px;
-    padding-top: 10px;
+    padding-top: 30px;
 }
  .card p{
 color: #000;
@@ -257,6 +259,7 @@ padding-top: 10px;
     border: none;
     margin-top: 40px;
     letter-spacing: 1px;
+    margin-top: 40px;
 }
 /*---courses section ends here */
 
@@ -286,6 +289,7 @@ padding-top: 10px;
     background-color: #fff;
     box-shadow:  0 0 20px rgba(0, 0, 0, 0.2);
     width: 420px;
+    margin: 5px;
     height: 230px;
     padding-top: 50px;
 }
