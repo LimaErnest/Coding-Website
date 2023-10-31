@@ -1,0 +1,177 @@
+@media (max-width: 999px) {
+    .header-nav .nav-link, .header-nav .cta, .header-nav .cta1{
+        display: none;
+    }
+    br{
+        display: none;
+    }
+    .dropdown{
+        display: block;
+}
+.header-nav #logo{
+    font-size: 45px;
+    font-weight: bolder;
+}
+.nav-button .cta-1{
+    padding: 20px 40px;
+    font-size: 30px;
+    font-weight: 600;
+    
+}
+.header-nav h1{
+    font-size: 60px;
+}
+.hero-page{
+    display: block;
+}
+.hero-content h1{
+    padding-top: 5%;
+font-size: 60px;
+}
+.hero-img img{
+    padding-top: 15%;
+width: 100%;
+}
+.get-started{
+    width: 40%;
+    padding: 35px;
+    font-size: 35px;
+}
+.categories{
+    display: block;
+}
+.categories .box{
+   margin-top: 40px;
+   width: 80%;
+   display: block;
+   align-items: center;
+   justify-content: center;
+   padding: 60px;
+ 
+}
+.categories .box h3{
+    font-size: 40px;
+}
+.about-us{
+    display: block;
+}
+.about-us h2{
+    font-size: 30px;
+}
+#course{
+    display: block;
+}
+.card-container{
+    display: block;
+}
+.testmonials-card{
+    display: block;
+}
+#unlock{
+display: none;
+}
+input{
+    width: 100%;
+}
+.footer{
+    display: none;
+}
+.about-us-img img{
+    width: 100%;
+}
+.about-us h2{
+    font-size: 75px;
+}
+.about-us p{
+    font-size: 16px;
+}
+.getta-started{
+    width: 40%;
+    padding: 35px;
+    font-size: 35px;
+}
+.card-container{
+    display: block;
+}
+.course-content h3 {
+    padding-bottom: 20px;
+}
+.course-content p {
+ font-size: 16px;
+}
+.card-container .card{
+    margin-top: 40px;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    padding: 60px;
+    width: auto;
+    height: auto;
+}
+.card-container .card img{
+    width: 100%;
+    height: 100%;
+    }
+.card-container .card h1{
+font-size: 35px;
+padding-top: 20px;
+}
+.card-container .card p{
+    font-size: 16px;
+    padding-top: 20px;
+    }
+    .card-container .card .explore{
+       width: 40%;
+       font-size: 35px;
+        }
+#testmonials{
+    display: block;
+}
+.testmonials-card{
+    display: block;
+}
+.testmonials-card .testmonials-content p{
+font-size: 16px;
+}
+.testmonials-card .testmonials-content{
+    margin-top: 40px;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    padding: 60px;
+    width: auto;
+    height: auto;
+}
+.footer{
+    display: block;
+    margin-top: 10%;
+    height: 10vh;
+}
+.footer-content{
+    padding: 20px;
+}
+.footer-link a{
+    font-size: 20px;
+}
+#unlock{
+    display: block;
+    padding-top: 35px;
+}
+#unlock p{
+    font-size: 16px;
+}
+.form{
+    display: block;
+}
+.form input{
+    padding: 50px;
+    width: 90%;
+    font-size: 35px;
+}
+.submit-btn{
+    display: block;
+    width: 100%;
+    font-size: 35px;
+}
+
+}
